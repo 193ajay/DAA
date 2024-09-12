@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	printf("chandana (192210505)\n");
+	printf("ajay (192211480)\n");
    int z[2][2];
    int i, j;
    int m1, m2, m3, m4 , m5, m6, m7;
