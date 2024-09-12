@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("chandana(192210505)\n");
+	printf("ajay(192211480)\n");
     int n;
     printf("Enter the number of rows: ");
     scanf("%d", &n);
