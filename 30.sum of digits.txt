@@ -10,7 +10,7 @@ int sumOfDigits(int n) {
 }
 
 int main() {
-	 printf("chandana (192210505)\n");
+	 printf("ajay (192211480)\n");
     int n;
     printf("enter the number:\n");
     scanf("%d",&n);
