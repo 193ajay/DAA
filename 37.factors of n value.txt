@@ -12,7 +12,7 @@ void printFactors(int n) {
 
 int main() {
     int n;
-     printf("chandana(192210505)\n"); 
+     printf("ajay (192211480)\n"); 
     printf("Enter the number:\n");
     scanf("%d",&n);
     printFactors(n);
