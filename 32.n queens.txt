@@ -61,7 +61,7 @@ int solveNQ() {
 }
 
 int main() {
-	 printf("chandana (192210505)\n");
+	 printf("ajay(192211480)\n");
     solveNQ();
     return 0;
 }
