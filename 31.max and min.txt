@@ -17,7 +17,7 @@ void findMinMax(int arr[], int n) {
 int main() {
     int arr[] = {3, 1, 4, 1, 5, 9, 2, 6, 5};
     int n = sizeof(arr) / sizeof(arr[0]);
-     printf("chandana (192210505)\n");
+     printf("ajay (192211480)\n");
 
     findMinMax(arr, n);
     return 0;
