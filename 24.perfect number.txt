@@ -21,7 +21,7 @@ int isPerfect(int num) {
 
 int main() {
     int num;
-    printf("chandana (192210505)\n");
+    printf("ajay (192211480)\n");
     // Input number
     printf("Enter a number to check if it is a perfect number: ");
     scanf("%d", &num);
