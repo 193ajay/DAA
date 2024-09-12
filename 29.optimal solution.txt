@@ -23,7 +23,7 @@ int MatrixChainOrder(int p[], int n) {
 int main() {
     int arr[] = {1, 2, 3, 4};
     int size = sizeof(arr) / sizeof(arr[0]);
-     printf("chandana (192210505)\n");
+     printf("ajay (192211480)\n");
 
     printf("Minimum number of multiplications is %d ", MatrixChainOrder(arr, size));
     return 0;
