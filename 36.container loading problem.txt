@@ -27,7 +27,7 @@ int main() {
     int wt[] = {10, 20, 30};
     int W = 50;
     int n = sizeof(val) / sizeof(val[0]);
-     printf("chandana (192210505)\n");
+     printf("ajay (192211480)\n");
 
     printf("Maximum value in Knapsack = %d", knapSack(W, wt, val, n));
     return 0;
