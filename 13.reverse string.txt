@@ -17,7 +17,7 @@ void reverseString(char str[]) {
     }
 }
 int main() {
-	printf("chandana (192210505)\n");
+	printf("ajay (192211480)\n");
     char str[100];
     printf("Enter a string: ");
     fgets(str, sizeof(str), stdin);
