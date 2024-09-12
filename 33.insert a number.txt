@@ -8,7 +8,7 @@ void insertNumber(int arr[], int n, int num, int pos) {
 
 int main() {
     int arr[100], n, num, pos;
-     printf("chandana (192210505)\n");
+     printf("ajay (192211480)\n");
 
     // Get array size from user
     printf("Enter the number of elements in the array: ");
