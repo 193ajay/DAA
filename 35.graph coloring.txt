@@ -49,7 +49,7 @@ void printSolution(int color[]) {
 }
 
 int main() {
-	 printf("chandana (192210505)\n");
+	 printf("ajay (192211480)\n");
     bool graph[V][V] = { {0, 1, 1, 1},
                          {1, 0, 1, 0},
                          {1, 1, 0, 1},
