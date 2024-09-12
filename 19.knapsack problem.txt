@@ -48,7 +48,7 @@ void knapsackGreedy(int n, float weight[], float profit[], float capacity) {
 
 int main() {
     int n = 3;
-    printf("chandana (192210505)\n");
+    printf("ajay (192211480)\n");
     float weight[] = {10, 20, 30};
     float profit[] = {60, 100, 120};
     float capacity = 50;
