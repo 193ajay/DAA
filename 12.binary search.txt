@@ -17,7 +17,7 @@ int binarySearch(int arr[], int size, int target) {
     return -1; 
 }
 int main() {
-	printf("chandana (192210505)\n");
+	printf("ajay(192211480)\n");
     int n, target, result;
     printf("Enter number of elements: ");
     scanf("%d", &n);
