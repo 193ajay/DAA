@@ -11,7 +11,7 @@ int reverseNumber(int num) {
 
 int main() {
     int num = 12345;
-    printf("chandana (192210505)\n");
+    printf("ajay (192211480)\n");
     printf("Reverse of %d is %d\n", num, reverseNumber(num));
     return 0;
 }
